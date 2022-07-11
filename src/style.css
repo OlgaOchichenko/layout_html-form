@@ -1,1 +1,19 @@
-/* styles go here */
+body {
+  margin-top: -12px;
+}
+
+.form-line {
+  margin-top: 20px;
+
+}
+
+.form-line > :nth-child(2) {
+  margin-top: 0;
+
+}
+
+.first {
+  display: block;
+  margin-top: 10px;
+
+}
